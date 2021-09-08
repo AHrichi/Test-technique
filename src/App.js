@@ -7,9 +7,9 @@ function App() {
       </div>
       <div style={{display:'flex',justifyContent:'flex-end'}}>
         <div style={{display:"flex",flexDirection:"column"}}>
-          <h3>Nom:....................</h3>
-          <h3>Prénom:................</h3>
-          <h3>Tél:........................</h3>
+          <h3>Nom:Hrichi</h3>
+          <h3>Prénom:Ahmed</h3>
+          <h3>Tél:28096659</h3>
         </div>
       </div>
       <Tasks/>
